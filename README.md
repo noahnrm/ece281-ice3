@@ -1,6 +1,11 @@
 # ECE 281 ICE 3: Ripple-Carry Adder with Top Level Design
 
+## Waveform
+![Waveform encompassing test cases on the ripple-adder](waveform.png)
 This is a **template** repository.
+
+## Documentation
+I used microsoft paint to draw my sketch for the entity. I referenced ICE4 sketch of entity schematic to draw it similarily. No other help received.
 
 [ICE 3 instructions](https://usafa-ece.github.io/ece281-book/ICE/ICE3.html)
 
